@@ -156,5 +156,36 @@ The collected data can be monitored through the connected cloud and user interfa
 <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/0a539867-f6c5-439c-9834-f6ea2096e686" />
 <img width="1204" height="415" alt="image" src="https://github.com/user-attachments/assets/a2cf1d3a-9bcf-41a3-921b-4041a7f53538" />
 
+## 🚶 Project Journey
 
+### Phase 1 — Field Investigation
+Visited herbal plant cultivation areas in Gazipur and interacted with growers and business owners.
+
+### Phase 2 — Plant Selection
+Selected nine herbal plants based on medicinal, economic, cultivation, and disease-related importance.
+
+### Phase 3 — Dataset Development
+Collected and organized 5,398 field images under natural conditions.
+
+### Phase 4 — AI Development
+Prepared the dataset and developed a transfer learning-based disease prediction pipeline.
+
+### Phase 5 — IoT Development
+Integrated environmental sensors with ESP32 for real-time data acquisition.
+
+### Phase 6 — Edge & System Integration
+Integrated camera, Raspberry Pi, ESP32, cloud communication, and visualization.
+
+### Phase 7 — Evaluation
+Evaluated the AI model and complete monitoring workflow.
+
+## 🎓 Project Information
+
+**Project Type:** Capstone Project  
+**Funding:** University-funded  
+**Institution:** Gazipur Digital University  
+**Department:** Internet of Things and Robotics Engineering (IRE)
+
+**Supervisor:** Farzana Akter  
+Assistant Professor, Department of Internet of Things and Robotics Engineering
 
