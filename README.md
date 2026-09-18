@@ -1,4 +1,4 @@
-# 🌿 SmartHerbalNet
+# SmartHerbalNet
 
 ### IoT-Assisted Environmental Data Collection and Leaf Disease Prediction Through Transfer Learning
 
@@ -8,15 +8,15 @@ Unlike a purely laboratory-based image classification study, this project was de
 
 The project combines:
 
-- 📷 Field-collected herbal leaf images
-- 🤖 Transfer learning-based disease prediction
-- 🌱 Real-time environmental monitoring
-- 🔌 ESP32-based sensor acquisition
-- 📸 Raspberry Pi camera integration
-- ☁️ Cloud-based data transmission and monitoring
-- 🚨 Environmental condition alerts
-- 📱 Farmer-oriented monitoring interface
-## 🌿 From Field to AI
+-  Field-collected herbal leaf images
+-  Transfer learning-based disease prediction
+-  Real-time environmental monitoring
+-  ESP32-based sensor acquisition
+-  Raspberry Pi camera integration
+-  Cloud-based data transmission and monitoring
+-  Environmental condition alerts
+-  Farmer-oriented monitoring interface
+##  From Field to AI
 
 **Field Visit**
 → **Stakeholder Interaction**
@@ -38,7 +38,7 @@ The project combines:
 > **Healthy Images:** 2,629  
 > **Diseased Images:** 2,769
 
-## 📌 Project Overview
+##  Project Overview
 
 SmartHerbalNet was developed to address the practical challenges faced in herbal plant cultivation, where leaf diseases and unfavorable environmental conditions can reduce crop quality, productivity, and market value.
 
@@ -54,7 +54,7 @@ The AI component is integrated with an IoT-based environmental monitoring system
 
 The overall goal is to demonstrate an end-to-end, practical smart farming framework rather than a standalone classification model.
 
-## 🌱 Why These Plants Were Selected
+##  Why These Plants Were Selected
 
 The nine herbal plants were selected based on a combination of:
 
@@ -70,7 +70,7 @@ The nine herbal plants were selected based on a combination of:
 This selection process was carried out during our field visit to a herbal plant village in Gazipur, Bangladesh.
 
 The field visit was an important part of the project because it allowed us to understand the practical farming environment, identify relevant plant species, observe disease conditions, and design the dataset around real cultivation practices rather than relying only on publicly available datasets.
-## 📷 Field Data Collection
+## Field Data Collection
 
 One of the major contributions of SmartHerbalNet is the development of an original field-collected herbal leaf image dataset.
 
@@ -86,7 +86,7 @@ The images were collected directly from herbal cultivation environments rather t
 6. Organized the collected images according to plant type and disease/health condition.
 7. Prepared the dataset for AI-based classification and evaluation.
 
-### 📊 Dataset at a Glance
+### Dataset at a Glance
 
 | Category | Value |
 |---|---:|
@@ -116,9 +116,9 @@ The images were collected directly from herbal cultivation environments rather t
 <img width="913" height="356" alt="image" src="https://github.com/user-attachments/assets/c42cb1f9-2169-4145-9d33-feb11dc1bab9" /> <img width="906" height="232" alt="image" src="https://github.com/user-attachments/assets/3fd7a804-247f-43fe-a1c8-c37a6ebca3a0" />
 <img width="430" height="439" alt="image" src="https://github.com/user-attachments/assets/e58ba484-c803-4711-b25e-40d273fc1a08" /> <img width="426" height="434" alt="image" src="https://github.com/user-attachments/assets/d20f0701-1cef-4061-871b-c45a4628c40a" />
 
-## 🏗️ System Architecture
+## System Architecture
 <img width="757" height="650" alt="WhatsApp Image 2025-08-04 at 22 17 31_82db938a" src="https://github.com/user-attachments/assets/7016475a-c2b5-48ce-9837-000b1e3912b1" />
-## 🤖 AI-Based Leaf Disease Detection
+## AI-Based Leaf Disease Detection
 
 The computer vision component uses a transfer learning approach to classify herbal leaf images into their corresponding health/disease categories.
 
@@ -135,7 +135,7 @@ Transfer Learning Model
 Disease / Health Prediction
 ↓
 Prediction Result
-## 🌡️ IoT-Based Environmental Monitoring
+## IoT-Based Environmental Monitoring
 
 The IoT component continuously collects environmental and soil-related parameters relevant to herbal plant health.
 
@@ -156,7 +156,7 @@ The collected data can be monitored through the connected cloud and user interfa
 <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/0a539867-f6c5-439c-9834-f6ea2096e686" />
 <img width="1204" height="415" alt="image" src="https://github.com/user-attachments/assets/a2cf1d3a-9bcf-41a3-921b-4041a7f53538" />
 
-## 🚶 Project Journey
+## Project Journey
 
 ### Phase 1 — Field Investigation
 Visited herbal plant cultivation areas in Gazipur and interacted with growers and business owners.
