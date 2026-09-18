@@ -16,6 +16,18 @@ The project combines:
 - ☁️ Cloud-based data transmission and monitoring
 - 🚨 Environmental condition alerts
 - 📱 Farmer-oriented monitoring interface
+## 🌿 From Field to AI
+
+**Field Visit**
+→ **Stakeholder Interaction**
+→ **Plant Selection**
+→ **Field Data Collection**
+→ **Dataset Preparation**
+→ **AI Model Development**
+→ **Sensor Integration**
+→ **IoT Communication**
+→ **System Integration**
+→ **Real-Time Monitoring**
 
 > **Project Type:** Capstone Project  
 > **Funding:** University-funded Project  
@@ -100,3 +112,45 @@ The images were collected directly from herbal cultivation environments rather t
 | Thankuni | 281 | 314 | 595 |
 | Tulsi | 258 | 280 | 538 |
 | **Total** | **2,629** | **2,769** | **5,398** |
+## 🏗️ System Architecture
+<img width="757" height="650" alt="WhatsApp Image 2025-08-04 at 22 17 31_82db938a" src="https://github.com/user-attachments/assets/7016475a-c2b5-48ce-9837-000b1e3912b1" />
+## 🤖 AI-Based Leaf Disease Detection
+
+The computer vision component uses a transfer learning approach to classify herbal leaf images into their corresponding health/disease categories.
+
+### Pipeline
+
+Leaf Image
+↓
+Preprocessing
+↓
+Data Augmentation
+↓
+Transfer Learning Model
+↓
+Disease / Health Prediction
+↓
+Prediction Result
+## 🌡️ IoT-Based Environmental Monitoring
+
+The IoT component continuously collects environmental and soil-related parameters relevant to herbal plant health.
+
+The system uses an ESP32-based sensing platform to acquire sensor data and transmit the measurements for monitoring and analysis.
+
+### Monitored Parameters
+
+- Soil Moisture
+- Soil pH
+- NPK
+- Temperature
+- Humidity
+- Gas / Smell-related sensing
+
+The collected data can be monitored through the connected cloud and user interface.
+
+## Output
+<img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/0a539867-f6c5-439c-9834-f6ea2096e686" />
+<img width="1204" height="415" alt="image" src="https://github.com/user-attachments/assets/a2cf1d3a-9bcf-41a3-921b-4041a7f53538" />
+
+
+
