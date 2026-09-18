@@ -115,7 +115,6 @@ The images were collected directly from herbal cultivation environments rather t
 
 <img width="913" height="356" alt="image" src="https://github.com/user-attachments/assets/c42cb1f9-2169-4145-9d33-feb11dc1bab9" /> <img width="906" height="232" alt="image" src="https://github.com/user-attachments/assets/3fd7a804-247f-43fe-a1c8-c37a6ebca3a0" />
 <img width="430" height="439" alt="image" src="https://github.com/user-attachments/assets/e58ba484-c803-4711-b25e-40d273fc1a08" /> <img width="426" height="434" alt="image" src="https://github.com/user-attachments/assets/d20f0701-1cef-4061-871b-c45a4628c40a" />
-/home/sajid/Pictures/Screenshots/Screenshot From 2026-09-18 15-53-57.png
 
 ## 🏗️ System Architecture
 <img width="757" height="650" alt="WhatsApp Image 2025-08-04 at 22 17 31_82db938a" src="https://github.com/user-attachments/assets/7016475a-c2b5-48ce-9837-000b1e3912b1" />
